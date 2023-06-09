@@ -14,7 +14,6 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 | Permission | Why it is required |
 | :---: | --- |
 | `android.permission.RECEIVE_BOOT_COMPLETED` | Required to keep checking for new SMS even after restart of phone. |
-| `android.permission.USE_FULL_SCREEN_INTENT` | Required to show a full screen notification at some times for ease of the user to fill in details about the transaction instantly. |
 | `android.permission.POST_NOTIFICATIONS` | Required to show notifications. |
 | `android.permission.RECEIVE_SMS` | Required to receive an incoming SMS so that the app can recognize and track transactions for the user automatically. |
 | `android.permission.READ_SMS` | Required to read the content of SMS received so that the app can recognize and track transactions for the user automatically. |
